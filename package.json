@@ -1,0 +1,26 @@
+{
+  "name": "Bamazon-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgreco1991/Bamazon-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgreco1991/Bamazon-App/issues"
+  },
+  "homepage": "https://github.com/mgreco1991/Bamazon-App#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^5.0.0",
+    "mysql": "^2.15.0"
+  }
+}
